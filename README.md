@@ -1,3 +1,3 @@
 # toDo-list
 
-<img src="toDo.PNG">
+<img src="todo.PNG">
